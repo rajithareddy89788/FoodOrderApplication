@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\spring2\demo"/>
+			<item value="C:\spring2\OnlineFlightTicketBookingApplication-2"/>
+			<item value="D:\learning\swagger-curd-demo"/>
+			<item value="C:\New folder\onlinefoodorderapplication_100"/>
+			<item value="C:\New folder\onlinefoodorderapplication16"/>
+			<item value="C:\New folder\onlinefoodorderapplication100"/>
+			<item value="D:\projects\projectmini"/>
+			<item value="D:\projects\onlinefoodorderapplicationchanged"/>
+			<item value="D:\projects\onlinefoodorderapplication16"/>
+			<item value="C:\New folder\finalproject-main\src"/>
+			<item value="C:\New folder\com.mouritech.onlinefoodorderapplication"/>
+			<item value="C:\New folder\ecommerce-backend-master"/>
+			<item value="D:\com.mouritech.onlinefoodorderapplication"/>
+			<item value="C:\springboot\SpringBootSamplecodes-main\fileuploadusingspringboot"/>
+			<item value="C:\springboot\visitorapi"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="appliaction2"/>
+			<item value="application"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\springboot\swiggy_application"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="Application.Analysis"/>
+		</list>
+		<list key="groupId">
+			<item value="Application"/>
+		</list>
+		<list key="artifactId">
+			<item value="Analysis"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

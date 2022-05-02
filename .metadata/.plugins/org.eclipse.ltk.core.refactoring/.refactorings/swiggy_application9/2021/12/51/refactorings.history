@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RestaurentDto.java&apos; to &apos;swiggy_application9/src/main/java/com.mouritech.swiggy_application.dto&apos;&#x0D;&#x0A;- Original project: &apos;swiggy_application9&apos;&#x0D;&#x0A;- Destination element: &apos;swiggy_application9/src/main/java/com.mouritech.swiggy_application.dto&apos;&#x0D;&#x0A;- Original element: &apos;com.mouritech.swiggy_application.dto.RestaurentDto.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mouritech.swiggy_application.dto" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mouritech.swiggy_application.dto{RestaurentDto.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639657056349" units="1" version="1.0"/>
+</session>
